@@ -1,0 +1,35 @@
+# Arquivos de compilação e debug
+*.dcu
+*.dpu
+*.exe
+*.dll
+*.so
+*.drc
+*.rsm
+*.map
+*.tds
+*.stat
+*.local
+*.identcache
+
+# Diretórios gerados pelo Delphi
+__history/
+__recovery/
+Win32/
+Win64/
+Android/
+iOS/
+*.identcache
+
+# Configurações de usuário e IDE
+*.dsk
+*.dproj.local
+*.opts
+*.otares
+*.cfg
+*.ddp
+
+# Arquivos temporários
+*.~*
+*.*~
+*.bak
